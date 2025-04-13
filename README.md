@@ -60,7 +60,7 @@ Class ChessConsole.UI
 - Enumerations 
 - Encapsulation / Access Modifiers 
 - Inheritance 
-- Downcasting 
+- Downcasting
 - Static members 
 - Layers pattern 
 
